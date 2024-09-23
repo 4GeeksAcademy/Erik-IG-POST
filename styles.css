@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 1px;
+}
+article {
+    margin:auto;
+    margin-top: 80px;
+    width: 550px;
+    height: 1000px;
+}
+
+img {
+    width: 550px;
+    height: 400px;
+}
+
+.header {
+    background-color: white;
+    width: 550px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.fotter {
+    background-color: white;
+    width: 550px;
+    height: 250px;
+}
+
+.reactions {
+    display: flex;
+
+}
+i {
+    font-size: 30px;
+    margin: 5px;
+}
+.html5{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:10px;
+    
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+.fa-ellipsis-vertical{
+    margin-top: 20px;
+    margin-right: 12px;
+}
+.reactions{
+    justify-content: space-between;
+}
+
+.subreaction{
+    margin:10px;
+}
+.fa-bookmark{
+    margin: 15px;
+}
+.texto{
+    font-size: 18px;
+    margin: 18px;
+}
